@@ -78,19 +78,6 @@ function App() {
           li3={stack.stack3}
         />
       </div>
-
-      {/* <div
-        className="App"
-        style={{ cursor: "pointer" }}
-      >
-        <h1 className="title">About me</h1>
-        <ul>
-          <li>{me.name}</li>
-          <li>{me.movie}</li>
-          <li>{me.music}</li>
-        </ul>
-      </div>
-       */}
     </div>
   );
 }
